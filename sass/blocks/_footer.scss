@@ -1,0 +1,40 @@
+.footer {
+
+    &__wrapper {
+        margin-top: 140px;
+        width: 1280px;
+        height: 120px;
+        background-color: #2C343E;
+    }
+
+    &__img {
+        width: 235px;
+        height: 28px;
+        margin-top: 45px;
+        margin-left: 50px;
+    }
+
+    &__link {
+        padding-left: 100px;
+        text-decoration: none;
+        color: #83888F;
+        margin-right: 20px;
+
+    }
+    &__link-1 {
+        text-decoration: none;
+        color: #83888F;
+        margin-right: 20px;
+
+    }
+    &__link-2 {
+        text-decoration: none;
+        color: #83888F;
+        margin-right: 20px;
+
+    }
+
+
+}
+
+

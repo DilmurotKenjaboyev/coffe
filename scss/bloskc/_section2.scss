@@ -1,0 +1,42 @@
+.section2 {
+    height: 725px;
+
+    &__box {
+        width: 1111px;
+        height: 525px;
+        margin: 0 auto;
+        background-image: url("../../img/section2/Group\ 14.png");
+        background-repeat: no-repeat;
+    }
+
+    &__list {
+        list-style-type: none;
+        display: flex;
+        position: relative;
+        top: 125px;
+    }
+
+    &__item {
+        margin-right: 30px;
+        width: 255px;
+        height: 399px;
+    }
+
+    &__title {
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: center;
+        color: #333D4B;
+        margin-top: 61px;
+    }
+
+    &__text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #333D4B;
+        margin-top: 24px;
+    }
+}
